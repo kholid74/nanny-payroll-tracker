@@ -1,0 +1,28 @@
+# Composer vendor folder
+/vendor/
+
+# Node modules (kalau suatu saat dipakai front-end)
+node_modules/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor
+.idea/
+.vscode/
+*.swp
+
+# Logs & cache
+*.log
+*.cache
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Backup / temp files
+*.bak
+*.tmp
+*.old
